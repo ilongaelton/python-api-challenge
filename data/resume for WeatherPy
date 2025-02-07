@@ -1,0 +1,4 @@
+Observations and Findings:
+For each plot, pay attention to whether the data shows a clear linear trend, or if it exhibits a non-linear pattern.
+The linear regression formula (slope and intercept) will help understand the nature of the relationship between the weather variable and latitude.
+The r² value tells you how well the linear model fits the data (closer to 1 means a better fit).
